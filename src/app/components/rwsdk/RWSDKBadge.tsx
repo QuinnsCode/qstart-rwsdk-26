@@ -1,3 +1,4 @@
+"use client"
 import { useState } from "react";
 
 // Usage: <RWSDKBadge size="sm" /> | <RWSDKBadge size="md" /> | <RWSDKBadge size="lg" />
